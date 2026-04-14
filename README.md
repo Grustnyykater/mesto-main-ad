@@ -11,4 +11,4 @@
 - публикация через GitHub Actions: `git push origin main`
 
 Ссылка на опубликованный проект:
-- `https://IvanBzz.github.io/mesto-production/`
+- https://github.com/Grustnyykater/mesto-main-ad
